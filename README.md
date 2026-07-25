@@ -54,7 +54,7 @@ The project uses the **Our World in Data COVID-19 Dataset**, which contains info
 
 ## 📸 Sample Query
 
-![SQL Query](YOUR_SECOND_SCREENSHOT_LINK)
+![SQL Query](Overview/QUERY%202.png)
 
 ---
 
