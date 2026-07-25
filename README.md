@@ -1,6 +1,6 @@
 # 🦠 COVID-19 SQL Analysis
 
-![SQL Project](YOUR_SQL_SCREENSHOT_LINK)
+
 
 ## 📌 About the Project
 
