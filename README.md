@@ -77,7 +77,7 @@ The project uses the **Our World in Data COVID-19 Dataset**, which contains info
 The SQL queries in this project were used to prepare the data for an interactive Power BI dashboard.
 
 ➡️ **COVID-19 Global Analysis Dashboard**  
-(Add your Power BI repository link here)
+(https://github.com/madhur489/COVID-19-PowerBI-Dashboard)
 
 ---
 
